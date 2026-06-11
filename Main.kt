@@ -1,5 +1,5 @@
 fun main() {
-    val project drainage = "ClassWave Live"
+    val project drainage = "First App"
     println("Hello, GitHub!")
     println("Kotlin code is running successfully for $project!")
     
