@@ -5,6 +5,7 @@ fun main() {
     
     val a = 10
     val b = 20
-    val sum = a + b
+    val c = 23
+    val sum = a + b + c
     println("The sum of $a and $b is: $sum")
 }
